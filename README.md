@@ -41,15 +41,23 @@ Melalui aplikasi ini, proses peminjaman menjadi lebih **efektif, terorganisir, d
 
 ### 🎓 Petugas
 
-| Username  | Password | Nama Admin    |
+| Username  | Password | Nama Petugas    |
 | --------- | -------- | ------------- |
 | petugas   | 123      | Petugas       |
 
 ---
 
+### 🎓 Peminjam
+
+| Username  | Password | Nama Peminjam |
+| --------- | -------- | ------------- |
+| peminjam  | 123      | Peminjam      |
+
+---
+
 ## 🔄 Alur Sistem
 
-### 🧑‍🎓 Siswa
+### 🧑‍🎓 Peminjam
 
 1. Login ke sistem
 2. Melihat daftar alat yang tersedia
