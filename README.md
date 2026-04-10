@@ -2,16 +2,16 @@ akses link : ujikom.xo.je
 
 tutorial menggunakan aplikasi
 1. login sebagai admin
-   username : admin
+   username : admin ||
    password : 123 ||
    pada peran admin, admin dapat melihat tampilan dashboard, quick action, melihat fitur aktivitas terbaru, pada bagian sidebar juga admin dapat mengakses semua fitur dari sidebar yang tersedia seperti : CRUD user, CRUD kategori, melihat log_aktivitas, menambahkan alat dan melihat laporan peminjaman
 
 2. Login sebebagai Petugas
-  username : petugas
+  username : petugas ||
    password : 123 ||
   pada peran petugas, petugas dapat melihat tampilan dashboard, quick action, melihat fitur aktivitas terbaru, pada bagian sidebar juga     petugas hanya dapat mengakses fitur dari sidebar yang tersedia seperti : menambahkan alat, mengkonfirmasi persetujuan peminjaman, mengkonfirmasi pengembalian dan melihat laporan peminjaman
 
 3. Login sebebagai Peminjam
-  username : peminjam
+  username : peminjam ||
   password : 123 ||
   pada peran peminjam, peminjam dapat melihat tampilan dashboard, quick action, melihat fitur aktivitas terbaru, pada bagian sidebar juga     peminjam hanya dapat mengakses fitur dari sidebar yang tersedia seperti : mengajukan peminjaman alat, melihat alat yang tersedia, dan melihat riwayat peminjaman
